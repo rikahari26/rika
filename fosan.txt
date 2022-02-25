@@ -1,0 +1,16 @@
+ΣF = resultan gaya (Newton)
+
+m = massa benda (kg)
+
+a = percepatan benda (m/s2)
+
+// algoritma
+ΣF = m x a
+m = 600kg
+a = 2m/s
+
+// pseudocode
+READ massa EQUAL 600
+READ percepatan EQUAL 2
+READ resultan gaya EQUAL massa TIMES percepatan 
+print resultan gaya EQUAL 600 TIMES 2 
